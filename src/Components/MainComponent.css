@@ -1,0 +1,26 @@
+.Card{
+    margin: 10px;
+    font-size: large;
+    background-image: linear-gradient(white,yellow,green);
+    width: 300px;
+    height: 600px;
+    border-radius: 20px;
+    text-align: center;
+    font: bolder;
+    
+}
+.Card img{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.Card h1{
+    color: blueviolet;
+}
+.Card button{
+    color:white;
+    background-image: linear-gradient(orange,brown,white);
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+}
